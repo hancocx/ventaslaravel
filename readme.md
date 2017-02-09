@@ -15,7 +15,7 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
   client@admin.com
   ```
 
- 2. Password: 
+2. Password: 
 
  ```bash
   H3ll02017
