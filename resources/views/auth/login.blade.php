@@ -5,7 +5,9 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading">Acceso al sistema</div>
+                <div class="panel-heading">Acceso al sistema <a href="https://github.com/Hancock3012/ventaslaravel" target="_blank" class="pull-right">
+                <span class="fa fa-github"></span> Intrucciones aquí</a>
+                </div>
                 <div class="panel-body">
                     <form class="form-horizontal" role="form" method="POST" action="{{ url('/login') }}">
                         {{ csrf_field() }}
