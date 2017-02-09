@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('Auth/login');
+    return view('auth/login');
 });
 
 Route::resource('almacen/categoria','CategoriaController');
