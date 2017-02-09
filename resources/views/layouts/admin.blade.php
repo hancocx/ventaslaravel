@@ -52,7 +52,7 @@
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                   <small class="bg-red">Online</small>
-                  <span class="hidden-xs">Ricardo Zarate Cruz</span>
+                  <span class="hidden-xs">User</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
