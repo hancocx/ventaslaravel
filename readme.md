@@ -1,20 +1,22 @@
 # Sistema para tienda de abarrotes desarollado en Laravel PHP Framework
 
 =======================
-[![Version](https://maven-badges.herokuapp.com/maven-central/com.beardedhen/androidbootstrap/badge.svg)]1.0
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-## Access to the system
+## Access to the system:
 
 1. Email:
+
  ```bash
   client@admin.com
   ```
+
  2. Password: 
+
  ```bash
   H3ll02017
   ```
