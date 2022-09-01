@@ -1,11 +1,20 @@
 <?php
 
+/*====================================
+ Mostrar errores
+ ====================================*/
+ ini_set('display_errors', 1);
+ ini_set('log_errors',1);
+ ini_set('error_log', "C:/xampp/htdocs/ventaslaravel/public/php_error_log");
+
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
  * @package  Laravel
  * @author   Taylor Otwell <taylorotwell@gmail.com>
  */
+
+ define('LARAVEL_START', microtime(true));
 
 /*
 |--------------------------------------------------------------------------
